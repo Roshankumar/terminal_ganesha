@@ -12,5 +12,5 @@ To recompile, remember to include "-lncurses" flag with command.
 
 ### Demo
 
-ganesha.gif
+![demo](ganesha.gif)
 
